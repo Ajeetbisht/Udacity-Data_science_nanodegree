@@ -3,6 +3,6 @@ My journey of Udacity Data Science nanodegree
 
 
 # Projects
-Project : Disaster response pipeline
+Project : Disaster response pipeline<br >
 Project : IBM recommendation<br >
 Project : Capstone project - Starbucks app user data
