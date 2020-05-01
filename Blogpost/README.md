@@ -1,12 +1,12 @@
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Data](#data)
+2. [Installation](#installation)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Results](#results)
 
-# Data
+# Data <a href="data"></a>
 Data set available on 
 <a href="https://www.kaggle.com/stackoverflow/so-survey-2017">Stack Overflow Developer Survey</a>
 
@@ -36,8 +36,3 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
-
