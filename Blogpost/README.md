@@ -7,7 +7,7 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 # Data
-(resource file)[https://www.kaggle.com/stackoverflow/so-survey-2017]
+Data set available on 
 <a href="https://www.kaggle.com/stackoverflow/so-survey-2017">Stack Overflow Developer Survey</a>
 
 ## Installation <a name="installation"></a>
