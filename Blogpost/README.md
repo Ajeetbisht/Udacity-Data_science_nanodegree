@@ -6,8 +6,8 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-#Data
-resource file [https://www.kaggle.com/stackoverflow/so-survey-2017]
+# Data
+(resource file)[https://www.kaggle.com/stackoverflow/so-survey-2017]
 
 ## Installation <a name="installation"></a>
 
